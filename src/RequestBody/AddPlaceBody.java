@@ -21,14 +21,5 @@ public class AddPlaceBody {
 				+ "}";
 		
 	}
-	
-	public static String updatePlaceRequestBody () {
-		return "{\r\n"
-				+ "    \"place_id\": \"7ce5e5c46f21d1624cd4ea783614b9be\",\r\n"
-				+ "    \"address\": \"70 Summer walk, USA\",\r\n"
-				+ "    \"key\": \"qaclick123\"\r\n"
-				+ "}";
-		
-	}
 
 }
